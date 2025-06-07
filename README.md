@@ -6,11 +6,11 @@ AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
 
 ALGORITHM:
-Import the required packages like pandas and numpy
-Read the data using the pandas
-Perform the data preprocessing if needed and apply regular differncing,seasonal adjustment,log transformation.
-Plot the data according to need, before and after regular differncing,seasonal adjustment,log transformation.
-Display the overall results.
+1.Import the required packages like pandas and numpy
+2.Read the data using the pandas
+3.Perform the data preprocessing if needed and apply regular differncing,seasonal adjustment,log transformation.
+4.Plot the data according to need, before and after regular differncing,seasonal adjustment,log transformation.
+5.Display the overall results.
 
 PROGRAM:
 ```
